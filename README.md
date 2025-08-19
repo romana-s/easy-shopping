@@ -1,6 +1,6 @@
 # Easy Shopping
 
-![Preview](https://github.com/romana-s/easy-shopping/blob/master/img/imgs.png?raw=true)
+![Preview]([https://github.com/romana-s/easy-shopping/blob/master/img/imgs.png?raw=true](https://github.com/romana-s/easy-shopping/blob/master/img/png.png))
 
 ## Sobre o Projeto
 Easy Shopping é um projeto desenvolvido durante meus estudos de **HTML e CSS** no **DevClub**. O objetivo foi praticar a criação de layouts modernos e responsivos para sites de comércio.
