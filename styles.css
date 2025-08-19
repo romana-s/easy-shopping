@@ -94,7 +94,7 @@ header{
     margin: 24px 0 0 57px;
 }
 
-@media screen and (max-width: 1300px){
+@media screen and (max-width: 600px){
 
     section{
         width: 100%;
